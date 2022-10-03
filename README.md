@@ -13,10 +13,15 @@ ___
 The key:
 ___
 Hyperion: Report Management/approval
+
 BatchBack: Managing batch failures in the lab
+
 FastSheet: Turns order information into a barcode. Used in tandem with TurboLog (Not included)
+
 felutils: Handles log-in and homepage. Needs to be refactored
+
 ChainLink: Communicates with FarmCommand API to manage external supply orders
+
 ___
 The context:
 ___
